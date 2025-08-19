@@ -2,7 +2,7 @@ hello here is the chart.
 
 # 🚀 My 4090 Powerhouse Performance Chart  
 
-*(Sorted: Largest Parameters → Smallest | Your Setup: RTX 4090 | 32GB DDR5 RAM | Intel i7-13900K)*
+*(Sorted: Largest Parameters → Smallest | Your Setup: RTX 4090 | 32GB D4 RAM | 13900K)*
 
 | 🧠 Model Name                                | ⚙️ Params | 🔍 **Quant**      | 📏 Context Length | ⚡ Tokens/s   | 🔑 Fits in 24GB VRAM |
 |----------------------------------------------|-----------|--------------------|--------------------|----------------|----------------------|
