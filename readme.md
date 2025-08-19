@@ -2,8 +2,6 @@ hello here is the chart.
 
 # 🚀 My 4090 Powerhouse Performance Chart  
 
-*(Sorted: Largest Parameters → Smallest | Your Setup: RTX 4090 | 32GB D4 RAM | 13900K)*
-
 | 🧠 Model Name                                | ⚙️ Params | 🔍 **Quant**      | 📏 Context Length | ⚡ Tokens/s   | 🔑 Fits in 24GB VRAM |
 |----------------------------------------------|-----------|--------------------|--------------------|----------------|----------------------|
 | `Qwen3-30B-A3B-Instruct` (Q8_0)              | **30B**   | `Q8_0`             | 32k                 | **17–25**     | ✅ Yes                |
