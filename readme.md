@@ -14,7 +14,7 @@ hello here is the chart.
 | `Qwen3-32B-Q4_K_M` (Q4_K_M)                 | **32B**   | `Q4_K_M`           | 9k                  | **16–32**     | ✅ Yes                |
 | `DeepSeek-R1-Distill-Llama-Medical-Doctor`  | **8B**    | `F16`              | 36k                 | **50**        | ✅ Yes                |
 | `deepseek-r1-0528-qwen3-8b` (Q8_0)          | **8B**    | `Q8_0`             | 80k                 | **50–77**     | ✅ Yes                |
-| `Qwen3-4B-Thinking` (F16)                   | **4B**    | `F16`              | 68k                 | **77**        | ✅ Yes                |
+| `Qwen3-4B-Thinking-2507-uncensored-fixed` (F16)                   | **4B**    | `F16`              | 68k                 | **77**        | ✅ Yes                |
 
 ---
 
